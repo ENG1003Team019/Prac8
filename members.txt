@@ -8,6 +8,16 @@ MEMBER 1 NAME: AMY PRENTICE
 	Role in project: programmer, assignment uploader
 =======
 MEMBER 1 NAME
+<<<<<<< HEAD
+ 
+MEMBER 2 NAME
+ 
+Nicholas White
+	-	Role is Cheif Tester and Debugger, 
+	-	Stream of Choice is Chemical or Materials Engineering
+	
+TUTOR'S NAME
+=======
  
 MEMBER 2 NAME
 >>>>>>> master
@@ -28,4 +38,5 @@ CALLUM FAIRBURN
 Role in project: team leader.
 
 Preferred branch of enginering: mechanical.
+>>>>>>> master
 >>>>>>> master
