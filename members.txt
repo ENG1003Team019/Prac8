@@ -1,7 +1,13 @@
 LIST OF MEMBERS FOR TEAM 19
  
 MEMBER 1 NAME: AMY PRENTICE
+
+	Female, 18
  
+	Role in project: programmer, assignment uploader
+ 
+	Preferred branch of engineering: electrical
+
 MEMBER 2 NAME: CALLUM FAIRBURN
  
 MEMBER 3 NAME: NICHOLAS WHITE
