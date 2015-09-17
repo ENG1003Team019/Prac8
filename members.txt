@@ -1,11 +1,26 @@
-LIST OF MEMBERS FOR TEAM X
+LIST OF MEMBERS FOR TEAM 19
  
+<<<<<<< HEAD
+MEMBER 1 NAME: AMY PRENTICE
+
+	Female, 18
+ 
+	Role in project: programmer, assignment uploader
+=======
 MEMBER 1 NAME
  hi
 MEMBER 2 NAME
+>>>>>>> master
  
-MEMBER 3 NAME
+	Preferred branch of engineering: electrical
+
+MEMBER 2 NAME: CALLUM FAIRBURN
  
+<<<<<<< HEAD
+MEMBER 3 NAME: NICHOLAS WHITE
+ 
+TUTOR'S NAME: TIAN GOH
+=======
 TUTOR'S NAME
 
 CALLUM FAIRBURN
@@ -13,3 +28,4 @@ CALLUM FAIRBURN
 Role in project: team leader.
 
 Preferred branch of enginering: mechanical.
+>>>>>>> master
