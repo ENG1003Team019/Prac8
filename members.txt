@@ -8,7 +8,7 @@ MEMBER 1 NAME: AMY PRENTICE
 	Role in project: programmer, assignment uploader
 =======
 MEMBER 1 NAME
- hi
+ 
 MEMBER 2 NAME
 >>>>>>> master
  
