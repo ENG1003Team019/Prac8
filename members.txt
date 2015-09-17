@@ -7,3 +7,9 @@ MEMBER 2 NAME
 MEMBER 3 NAME
  
 TUTOR'S NAME
+
+CALLUM FAIRBURN
+
+Role in project: team leader.
+
+Preferred branch of enginering: mechanical.
